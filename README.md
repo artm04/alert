@@ -30,4 +30,4 @@ alert --help
 
 # License 
 
-MIT License
+![MIT License](https://opensource.org/license/mit/)
